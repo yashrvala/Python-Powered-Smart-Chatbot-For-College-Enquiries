@@ -1,11 +1,8 @@
 Flask
 flask-cors
 langchain
-azure-openai
+azure-ai-openai
 duckduckgo-search
 streamlit
-pyaudio
-SpeechRecognition
-gTTS
 python-dotenv
 requests

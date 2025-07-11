@@ -19,7 +19,7 @@ llm = AzureChatOpenAI(
 )
 
 template = """
-You are a helpful college assistant. Answer student queries like admission, fees, faculty, timetable, etc.
+You are a helpful college assistant. Answer student queries like admission, fees, faculty, timetable, etc. dont give answer everything else quetions give only collage related quetion answers
 
 Question: {question}
 Answer:"""
