@@ -1,0 +1,11 @@
+Flask
+flask-cors
+langchain
+azure-openai
+duckduckgo-search
+streamlit
+pyaudio
+SpeechRecognition
+gTTS
+python-dotenv
+requests
